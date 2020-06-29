@@ -1,0 +1,121 @@
+[
+    {
+    "title": "Seus podcasts mais escutados!",
+    "itens":[{
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4i7UvOi0_Urr2S6A4xFTEpf3RFGaARZn-0kFjhzVCgULSy2k1&usqp=CAU",
+        "subtitle": {
+            "title": " The Startup catalyst",
+            "description": "Episódios de podcast escolhidos para voce!"
+        }
+    },{
+
+        "photo": "https://pi.tedcdn.com/r/pb-assets.tedcdn.com/system/baubles/files/000/005/187/original/TED_Talks_Podcast_Thumbnail_Audio_600px.png?w=320",
+        "subtitle": {
+            "title": "TED TALKS daily",
+            "description": "Episódios de podcast escolhidos para voce!"
+        }
+        
+    },{
+        "photo": "https://wmfeweb.s3.amazonaws.com/Are-We-There-Yet-Logo-2019-podcover.jpg",
+        "subtitle": {
+            "title": "Are we there vet",
+            "description": "Episódios de podcast escolhidos para voce!"
+        }
+
+    },{
+        "photo": "https://mediastorage.cnnbrasil.com.br/IMAGES/00/00/00/3375_532A31D68E5BB487.png",
+        "subtitle": {
+            "title": "podcast CNN",
+            "description": "Episódios de podcast escolhidos para voce!"
+        }
+    }]
+},{
+    "title": "Novos episódios de Podcast",
+    "itens":[{
+     
+        "photo": "https://estaticos.globoradio.globo.com/fotos/2019/04/28200cfd-9eb5-4dfd-b064-8f4485f010bf.png.3000x3000_q100_box-0%2C0%2C1200%2C1200_detail_upscale.jpg",
+        "subtitle": {
+            "title": "Audio Cast",
+            "description": "Episódios de podcast escolhidos para voce!"
+        }
+    },{
+ 
+        "photo": "https://upload.wikimedia.org/wikipedia/pt/7/78/Nerdcast_-_2006.jpg",
+        "subtitle": {
+            "title": "NERD CAST",
+            "description": "Episódios de podcast escolhidos para voce!"
+        }
+
+    },{
+        
+            "photo": "https://mediastorage.cnnbrasil.com.br/IMAGES/00/00/00/3375_532A31D68E5BB487.png",
+            "subtitle": {
+                "title": "podcast CNN",
+                "description": "Episódios de podcast escolhidos para voce!"
+            }
+    },{
+
+
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4i7UvOi0_Urr2S6A4xFTEpf3RFGaARZn-0kFjhzVCgULSy2k1&usqp=CAU",
+        "subtitle": {
+            "title": " The Startup catalyst",
+            "description": "Episódios de podcast escolhidos para voce!"
+        }
+
+    }]
+    
+},{
+    "title":"Top Mais tocadas no Brasil",
+    "itens":[{
+        "photo": "https://i.scdn.co/image/ab67706f000000021f3a1a6eaa8318e589bd8732",
+        "subtitle": {
+            "title": "This is ALOK",
+            "description": "Grandes hits do ALOK"
+        }
+    },{
+        "photo": "https://i.scdn.co/image/ab67706f00000002457a9bd097363bbf08a489ab",
+        "subtitle": {
+            "title": "This is Marilia Mendonça!",
+            "description": "O melhor das sofrencia com Marilia Mendonça"
+        }
+    },{
+        "photo": "https://i.scdn.co/image/ab67616d0000b27368193aa2234f8580a6ad1590",
+        "subtitle": {
+            "title": "Gusttavo lima",
+            "description": "O melhor doo sertanejo com Gusttavo Lima"
+        }
+    }]
+},{
+    "title":"Escute de novo",
+    "itens":[{
+        "photo": "https://i.scdn.co/image/ab67706f00000002b6b079ea1e8f5af584d7a897",
+        "subtitle": {
+            "title": "Hop-Hop",
+            "description": "O melhor do Hip-hop nessa playlist"
+        }
+    },{
+        "photo": "https://i.scdn.co/image/ab67706f000000025bfa4d6bec505c7a2634cc69",
+        "subtitle": {
+            "title": " Lofi Hip-Hop",
+            "description": "O melhor do Lofi Hip-hop nessa playlist"
+        }
+    },{
+        "photo": "https://i.scdn.co/image/ab67706f000000025f4b625f7dfcb4733381bac3",
+        "subtitle": {
+            "title": " I love my 90s Hip-Hop",
+            "description": "O melhor do Lofi Hip-hop nessa playlist"
+        }
+    }]
+
+},{
+    "title":"This is Eminem",
+    "itens":[{
+        "photo": "https://i.scdn.co/image/ab67706f000000027a181d9fed936372672c40ca",
+        "subtitle": {
+            "title": " The best of eminem ",
+            "description": "this greats hits of eminem"
+        }
+    }]
+}
+
+]
